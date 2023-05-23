@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: 192.168.1.138
+      port: 27017
+      database: alerts_db
+
+server:
+  port: 4000
